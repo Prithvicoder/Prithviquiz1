@@ -16,7 +16,7 @@ if answer.lower()=='yes':
          print("wrong....")   
 
      answer=input('Question 2: When was albert einstain born ??:')
-     if answer.lower=='March 14':
+     if answer.lower=='march 14':
          score += 1
          print("nice,correct")
      else:
